@@ -1,5 +1,11 @@
 #challenge 2
 #task 2
+
+#nice code
+#i like it
+#Python is best
+
+
 def solution(total_lambs):
     
     if total_lambs==0:
